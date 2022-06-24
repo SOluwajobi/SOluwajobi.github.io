@@ -10,4 +10,4 @@ I imported all three tables to power query for transformation and loaded them in
 Modelled the three tables and made connections 
 Using DAX formulas "SUM and SUMX," I created Total Quantity, Total Cost and Total Revenue Measures 
 Created new column " Quarters" from date 
-Cards, a Stacked bar chart, Donut Chart, slicer, and Table were used for these visuals.
+Cards, a Stacked bar chart, Donut Chart, slicer, area chart and Table were used for these visuals.
